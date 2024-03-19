@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: pink;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.button {
+    font-size: 40px;
+    padding: 12px 24px;
+    background-color: #fff;
+    border: 2px solid rgb(19, 215, 19);
+    text-decoration: none;
+    border-radius: 25px;
+    font-weight: 600;
+    cursor: pointer;
+}
+    
